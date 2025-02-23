@@ -19,14 +19,14 @@ This web application predicts customer churn in the telecommunications sector us
 
 ## 🏗 **Deployment Details**  
 - **Framework**: Streamlit  
-- **Model**: Machine Learning (Logistic Regression/Random Forest/etc.)  
+- **Model**: Machine Learning (GradientBoostingClassifier/RandomForestClassifier/etc.)  
 - **Hosting**: Deployed via [Streamlit Cloud](https://streamlit.io/)  
 
 ## ⚡ **Run Locally**  
 To run the app on your local machine:  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/telecom-churn-app.git
+git clone https://github.com/snehuuu28/telecom-churn-app.git
 cd telecom-churn-app
 
 # Install dependencies
